@@ -1,9 +1,10 @@
 # Dependencies
 node_modules/
 
-# Build output
-dist/
-build/
+# Build output — committed as /docs for GitHub Pages
+# dist/
+# build/
+
 
 # Vite cache
 .vite/
